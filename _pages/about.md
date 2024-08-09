@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+[CV (Chinese Version)](https://kdocs.cn/l/cdL3W8nwkt7u)
+
 I am a Ph.D. student at the University of Chinese Academy of Sciences. I am doing research in the [VUL337](https://netsec.ccert.edu.cn/vul337) laboratory at Tsinghua University, under the guidance of Professor [Chao Zhang](https://netsec.ccert.edu.cn/people/chaoz/).
 
 My current research focuses on confidential computing (TEE for cloud), privacy computing (TEE & MPC), fuzzing, and static program analysis. In privacy computing, I am interested in using hardware capabilities to protect data privacy and promote data value generation, and protect the security of AI models during delivery and deployment. In confidential computing, I am interested in the application of TEE and the side channel attack and defense against CPU and TEE. In addition, we hope to use AI to generate software based on "genes" and design the next generation of hardware in the future.
@@ -53,3 +55,9 @@ Bachelor of Engineering - Cyberspace Security & Finance (Dual Degree)<br>
 (W.I.P.) Responsible for the security and functional testing of [SecretFlow](https://www.secretflow.org.cn/) from Ant group (collaboration between school and enterprise). We have combined manual auditing and automated testing to discover several design and code implementation issues. The current goal is to officially release the SecretFlow. At the same time, we are relying on the project to carry out research points such as MPC framework differential testing and Fuzzing Roadblocks bypass.
 
 (W.I.P.) Responsible for the design of advertising delivery platforms (demand-side platforms and data management platforms), focusing on providing privacy computing capabilities and working with data partners to build more powerful user portraits.
+
+# Skill
+
+**Language**: relatively proficient in `C++ (300k+ development)`/`Python`, with some experience in `OCaml`/`Rust`.
+
+**Architecture**: relatively proficient in `linux user-mode programs`/`compilers`, with some experience in `CPU`/`kernel & drivers`/`virtual machines`.
